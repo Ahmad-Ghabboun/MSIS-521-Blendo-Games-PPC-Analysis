@@ -1,2 +1,2 @@
 # MSIS-521-Blendo-Games-PPC-Analysis
-Analysis of pay-per-click campaign data across Google, MSN, Yahoo, and Overture to optimize ad spend and maximize return on advertising (ROA). Built with Python, Pandas, and Matplotlib.
+Python-based analysis of pay-per-click (PPC) internet marketing campaign data for Blendo Games, a boutique indie gaming company. This project explores publisher performance, keyword strategy, and audience targeting across Google, MSN, Yahoo, and Overture to optimize ad spend and maximize return on advertising (ROA). Built with Python, Pandas, and Matplotlib in a Jupyter Notebook environment.
